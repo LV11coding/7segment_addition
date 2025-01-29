@@ -11,7 +11,7 @@ int main () {
                             1, 6, 5, 4, 3, 7, 0,
                             1, 2, 3, 0, 0, 0, 0,
                             1, 2, 3, 4, 5, 6, 7,
-                            1, 2, 3, 4, 6, 7, 0};
+                            1, 2, 3, 4, 6, 7, 0}; //change the numbers here with your own numbers
     bool win = false;
     for (int i = 0; i < 10; i++) {
         for (int x = i + 1; x < 10; x++) {
